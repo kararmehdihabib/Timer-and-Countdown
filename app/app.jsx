@@ -5,12 +5,14 @@ var Main = require('Main');
 var Timer  = require('Timer');
 var Countdown  = require('Countdown');
 
-//App CSS
-require('style!css!sass!applicationStyles')
+
 
 // Load Foundation
 require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation;
+
+//App CSS
+require('style!css!sass!applicationStyles')
 
 
 ReactDOM.render(
