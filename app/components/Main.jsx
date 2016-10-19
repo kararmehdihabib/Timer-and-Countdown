@@ -9,7 +9,7 @@ var Main = React.createClass({
                 <div >
                     <div>
                         <Nav/>
-                        <p className="huta">Main.jsx Rendered</p>
+                        <p>Main.jsx Rendered</p>
                     {this.props.children}
                     
                     </div>
