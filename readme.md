@@ -5,6 +5,7 @@
 <li>ES6</li>
 <li>Babel</li>
 <li>Foundation</li>
+<li>SASS</li>
 <li>Karma</li>
 <li>Mocha</li>
 <li>Webpack</li>
